@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Magnus</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 💬 Ask me about **Python,Django,HTML,CSS,JS**
+- 💬 Ask me about **Python,Django,HTML,CSS,JS,React**
 
 - 📫 How to reach me **bathulajayaprakashnarayana@gmail.com**
 
